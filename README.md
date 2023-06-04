@@ -1,5 +1,5 @@
 # Basic_Ecommerce
-# My Awesome Product Display and Checkout Page
+# Product Display and Checkout Page
 
 🎉 Welcome to my product display and checkout page! 🛒
 
